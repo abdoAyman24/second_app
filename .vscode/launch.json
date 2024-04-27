@@ -1,0 +1,23 @@
+{
+
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "new_app",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "new_app (profile mode)",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "new_app (release mode)",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        }
+    ]
+}
